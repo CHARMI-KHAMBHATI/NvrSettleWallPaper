@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Unsplash Demo</string>
+    <string name="title_crop">Crop</string>
+</resources>
